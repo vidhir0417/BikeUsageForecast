@@ -4,7 +4,7 @@ This document analyzes nearly a decade of public bike trip data from MiBici in G
 
 ## Introduction
 
-The project utilizes a dataset of 25,863,690 public bike trips from 372 stations of MiBici in Guadalajara, Jalisco, Mexico, spanning from December 2014 to January 2024. The primary goal is to apply the Box-Jenkins Methodology to forecast past and future public bike usage, observing its continuous behavior and trends in the ZMG.
+A dataset, obtained from *Kaggle*, of 25,863,690 public bike trips from 372 stations of MiBici in Guadalajara, Jalisco, Mexico, spanning from December 2014 to January 2024 is utilized. The primary goal is to apply the Box-Jenkins Methodology to forecast past and future public bike usage, observing its continuous behavior and trends in the ZMG.
 
 ## Data
 
